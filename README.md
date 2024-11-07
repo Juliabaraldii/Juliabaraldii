@@ -7,4 +7,5 @@ meu nome é Julia Baraldi
 
   *** voce pode entrar em contato comigo atravez de: julia.baraldi@escola.pr.gov.br, @julia_baraldii
 
-![] ([)](https://media.tenor.com/mmrtlj3CT_oAAAAi/lilo-and-stitch-stitch.gif)
+![] (<img src="https://media.tenor.com/mmrtlj3CT_oAAAAi/lilo-and-stitch-stitch.gif" alt="a cartoon drawing of stitch sitting down with a serious look on his face"/>![image](https://github.com/user-attachments/assets/b85778d5-6d54-4f68-a6bd-33ef766a7f56)
+
