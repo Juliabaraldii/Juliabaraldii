@@ -6,4 +6,5 @@ meu nome é Julia Baraldi
 * ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
   *** voce pode entrar em contato comigo atravez de: julia.baraldi@escola.pr.gov.br, @julia_baraldii
-  
+
+![] ([)](https://media.tenor.com/mmrtlj3CT_oAAAAi/lilo-and-stitch-stitch.gif)
